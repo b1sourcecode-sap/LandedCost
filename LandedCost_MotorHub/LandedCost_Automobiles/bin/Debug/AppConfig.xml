@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CompanyDetails>
+	<DatabaseServerName>192.168.11.100:30015</DatabaseServerName>
+	<dbUser>SYSTEM</dbUser>
+	<dbPassword>P@ssw0rD</dbPassword>
+	<Database>TESTINGL_LANNDEDCOST</Database>
+	<LicenseServerName>192.168.11.100</LicenseServerName>
+</CompanyDetails>

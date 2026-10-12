@@ -1,0 +1,32 @@
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCost_SpareParts.exe.config
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCost_SpareParts.exe
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCost_SpareParts.pdb
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost_SpareParts.csprojResolveAssemblyReference.cache
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost_SpareParts.csproj.ResolveComReference.cache
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost.DisplayReport.resources
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost.ReportDisplay.resources
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost_SpareParts.Form1.resources
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost_SpareParts.csproj.GenerateResource.Cache
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost_SpareParts.exe
+F:\NepalProject\LandedCost_SpareParts\obj\x86\Debug\LandedCost_SpareParts.pdb
+E:\ird\LandedCostForSpareParts\bin\Debug\LandedCost_SpareParts.exe.config
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost_SpareParts.csproj.ResolveComReference.cache
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost_SpareParts.exe
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost_SpareParts.pdb
+E:\ird\LandedCostForSpareParts\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\LandedCostForSpareParts\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\LandedCostForSpareParts\bin\Debug\LandedCost_SpareParts.exe
+E:\ird\LandedCostForSpareParts\bin\Debug\LandedCost_SpareParts.pdb
+E:\ird\LandedCostForSpareParts\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost_SpareParts.csprojResolveAssemblyReference.cache
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost.DisplayReport.resources
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost.ReportDisplay.resources
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost_SpareParts.Form1.resources
+E:\ird\LandedCostForSpareParts\obj\x86\Debug\LandedCost_SpareParts.csproj.GenerateResource.Cache

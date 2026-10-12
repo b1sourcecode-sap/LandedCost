@@ -1,0 +1,4 @@
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCost.exe.config
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCost.csproj.ResolveComReference.cache

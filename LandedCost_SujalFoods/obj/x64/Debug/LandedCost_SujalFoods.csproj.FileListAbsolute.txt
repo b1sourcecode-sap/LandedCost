@@ -1,0 +1,17 @@
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\LandedCost.exe.config
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost_SujalFoods.csproj.ResolveComReference.cache
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost.exe
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost.pdb
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\LandedCost.exe
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\LandedCost.pdb
+D:\SourceCodeSujal\LandedCost_SujalFoods\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost_SujalFoods.csprojResolveAssemblyReference.cache
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost_SujalFoods.DisplayReport.resources
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost_SujalFoods.ReportDisplay.resources
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost.Form1.resources
+D:\SourceCodeSujal\LandedCost_SujalFoods\obj\x64\Debug\LandedCost_SujalFoods.csproj.GenerateResource.Cache

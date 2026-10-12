@@ -1,0 +1,16 @@
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCostSpareParts.exe.config
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCostSpareParts.exe
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\LandedCostSpareParts.pdb
+F:\NepalProject\LandedCost_SpareParts\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCostSpareParts.csproj.ResolveComReference.cache
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCost.DisplayReport.resources
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCost.ReportDisplay.resources
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCostSpareParts.Form1.resources
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCostSpareParts.csproj.GenerateResource.Cache
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCostSpareParts.exe
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCostSpareParts.pdb
+F:\NepalProject\LandedCost_SpareParts\obj\Debug\LandedCostSpareParts.csprojResolveAssemblyReference.cache

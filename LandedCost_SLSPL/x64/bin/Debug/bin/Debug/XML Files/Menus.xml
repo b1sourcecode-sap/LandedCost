@@ -1,0 +1,22 @@
+
+<Application>
+	<Menus>
+		<action type="add">
+		<!--<Menu Checked="0" Enabled="1" FatherUID="43525" String="Barcode Scanning" Type="1" position="9" UniqueID="BarCode" />--><!--
+    <Menu Checked="0" Enabled="1" FatherUID="43536" String="Customer Aging Report" Type="1" position="11" UniqueID="CustomerAgingRpt" />
+    <Menu Checked="0" Enabled="1" FatherUID="43536" String="Vendor Aging Report" Type="1" position="12" UniqueID="VendorAgingRpt" />
+    <Menu Checked="0" Enabled="1" FatherUID="1760" String="Item Aging Report" Type="1" position="23" UniqueID="ItemAgingRpt" />
+    <Menu Checked="0" Enabled="1" FatherUID="3584" String="Send SMS" Type="1" position="5" UniqueID="SendSms" />
+    <Menu Checked="0" Enabled="1" FatherUID="3584" String="Service Master" Type="1" position="6" UniqueID="ServiceMaster" />
+    <Menu Checked="0" Enabled="1" FatherUID="3584" String="Scheme Master" Type="1" position="7" UniqueID="SchemeMaster" />
+    --><!--<Menu Checked="0" Enabled="1" FatherUID="3584" String="Activty Time Setup" Type="1" position="8" UniqueID="MnuActTimSetup" />
+    <Menu Checked="0" Enabled="1" FatherUID="3584" String="Set of Activity" Type="1" position="9" UniqueID="MnuStActivties" />--><!--
+    --><!--<Menu Checked="0" Enabled="1" FatherUID="43529" Position="4" String="Set of Activity" Type="1" UniqueID="MnuStActivties" />--><!--
+    --><!--<Menu Checked="0" Enabled="1" FatherUID="3584" String="Scheme Master" Type="1" position="5" UniqueID="SchemeMaster" />--><!--
+      <Menu Checked="0" Enabled="1" FatherUID="11520" String="SubGroup Master" Type="1" position="2" UniqueID="SubGrpMaster" />
+      <Menu Checked="0" Enabled="1" FatherUID="43527" String="Vehicle Class" Type="1" position="2" UniqueID="ItmsGrp" />-->
+      <Menu Checked="0" Enabled="1" FatherUID="43527" String="Landed Cost Setup" Type="1" position="3" UniqueID="CostSetup" />
+      
+    </action>
+	</Menus>
+</Application> 
